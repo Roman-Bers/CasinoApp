@@ -1,0 +1,15 @@
+/Users/romanbers/Projects/CasinoApp/CasinoApp/bin/Debug/net7.0/CasinoApp
+/Users/romanbers/Projects/CasinoApp/CasinoApp/bin/Debug/net7.0/CasinoApp.deps.json
+/Users/romanbers/Projects/CasinoApp/CasinoApp/bin/Debug/net7.0/CasinoApp.runtimeconfig.json
+/Users/romanbers/Projects/CasinoApp/CasinoApp/bin/Debug/net7.0/CasinoApp.dll
+/Users/romanbers/Projects/CasinoApp/CasinoApp/bin/Debug/net7.0/CasinoApp.pdb
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.csproj.AssemblyReference.cache
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.AssemblyInfoInputs.cache
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.AssemblyInfo.cs
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.csproj.CoreCompileInputs.cache
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.dll
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/refint/CasinoApp.dll
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.pdb
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/CasinoApp.genruntimeconfig.cache
+/Users/romanbers/Projects/CasinoApp/CasinoApp/obj/Debug/net7.0/ref/CasinoApp.dll
